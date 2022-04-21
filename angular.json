@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "angular-json-file"
+  "defaultProject": "angular-json-file",
+  "cli": {
+    "analytics": false
+  }
 }
